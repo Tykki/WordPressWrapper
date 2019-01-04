@@ -1,0 +1,18 @@
+
+#map_images{
+	/*margin-left: 17%;*/
+	align-self: center;
+}
+#sce, #scw{
+	/*margin-left: 27% !important;*/
+}
+#sce_left{
+	padding-bottom: 0px;
+}
+
+#sce_right, #scw_right{
+	float: none !important;
+}
+#summary{
+	/*margin-left: 17%;*/
+}

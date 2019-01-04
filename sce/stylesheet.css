@@ -1,0 +1,136 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2011 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Flat-It Type Foundry
+ * License URL: http://www.fontspring.com/fflicense/flat-it
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'DharmaGothicERegular';
+    src: url('fonts/dharmagothice_regular_macroman/DharmaGothicE_Regular_R-webfont.eot');
+    src: url('fonts/dharmagothice_regular_macroman/DharmaGothicE_Regular_R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dharmagothice_regular_macroman/DharmaGothicE_Regular_R-webfont.woff') format('woff'),
+         url('fonts/dharmagothice_regular_macroman/DharmaGothicE_Regular_R-webfont.ttf') format('truetype'),
+         url('fonts/dharmagothice_regular_macroman/DharmaGothicE_Regular_R-webfont.svg#DharmaGothicERegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DharmaGothicERegularItalic';
+    src: url('fonts/dharmagothice_regularitalic_macroman/DharmaGothicE_Regular_I-webfont.eot');
+    src: url('fonts/dharmagothice_regularitalic_macroman/DharmaGothicE_Regular_I-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dharmagothice_regularitalic_macroman/DharmaGothicE_Regular_I-webfont.woff') format('woff'),
+         url('fonts/dharmagothice_regularitalic_macroman/DharmaGothicE_Regular_I-webfont.ttf') format('truetype'),
+         url('fonts/dharmagothice_regularitalic_macroman/DharmaGothicE_Regular_I-webfont.svg#DharmaGothicERegularItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DharmaGothicELight';
+    src: url('fonts/dharmagothice_light_macroman/DharmaGothicE_Light_R-webfont.eot');
+    src: url('fonts/dharmagothice_light_macroman/DharmaGothicE_Light_R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dharmagothice_light_macroman/DharmaGothicE_Light_R-webfont.woff') format('woff'),
+         url('fonts/dharmagothice_light_macroman/DharmaGothicE_Light_R-webfont.ttf') format('truetype'),
+         url('fonts/dharmagothice_light_macroman/DharmaGothicE_Light_R-webfont.svg#DharmaGothicELight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DharmaGothicELightItalic';
+    src: url('fonts/dharmagothice_lightitalic_macroman/DharmaGothicE_Light_I-webfont.eot');
+    src: url('fonts/dharmagothice_lightitalic_macroman/DharmaGothicE_Light_I-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dharmagothice_lightitalic_macroman/DharmaGothicE_Light_I-webfont.woff') format('woff'),
+         url('fonts/dharmagothice_lightitalic_macroman/DharmaGothicE_Light_I-webfont.ttf') format('truetype'),
+         url('fonts/dharmagothice_lightitalic_macroman/DharmaGothicE_Light_I-webfont.svg#DharmaGothicELightItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DharmaGothicEThin';
+    src: url('fonts/dharmagothice_thin_macroman/DharmaGothicE_Thin_R-webfont.eot');
+    src: url('fonts/dharmagothice_thin_macroman/DharmaGothicE_Thin_R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dharmagothice_thin_macroman/DharmaGothicE_Thin_R-webfont.woff') format('woff'),
+         url('fonts/dharmagothice_thin_macroman/DharmaGothicE_Thin_R-webfont.ttf') format('truetype'),
+         url('fonts/dharmagothice_thin_macroman/DharmaGothicE_Thin_R-webfont.svg#DharmaGothicEThin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DharmaGothicEThinItalic';
+    src: url('fonts/dharmagothice_thinitalic_macroman/DharmaGothicE_Thin_I-webfont.eot');
+    src: url('fonts/dharmagothice_thinitalic_macroman/DharmaGothicE_Thin_I-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dharmagothice_thinitalic_macroman/DharmaGothicE_Thin_I-webfont.woff') format('woff'),
+         url('fonts/dharmagothice_thinitalic_macroman/DharmaGothicE_Thin_I-webfont.ttf') format('truetype'),
+         url('fonts/dharmagothice_thinitalic_macroman/DharmaGothicE_Thin_I-webfont.svg#DharmaGothicEThinItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DharmaGothicEBold';
+    src: url('fonts/dharmagothice_bold_macroman/DharmaGothicE_Bold_R-webfont.eot');
+    src: url('fonts/dharmagothice_bold_macroman/DharmaGothicE_Bold_R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dharmagothice_bold_macroman/DharmaGothicE_Bold_R-webfont.woff') format('woff'),
+         url('fonts/dharmagothice_bold_macroman/DharmaGothicE_Bold_R-webfont.ttf') format('truetype'),
+         url('fonts/dharmagothice_bold_macroman/DharmaGothicE_Bold_R-webfont.svg#DharmaGothicEBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DharmaGothicEBoldItalic';
+    src: url('fonts/dharmagothice_bolditalic_macroman/DharmaGothicE_Bold_I-webfont.eot');
+    src: url('fonts/dharmagothice_bolditalic_macroman/DharmaGothicE_Bold_I-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dharmagothice_bolditalic_macroman/DharmaGothicE_Bold_I-webfont.woff') format('woff'),
+         url('fonts/dharmagothice_bolditalic_macroman/DharmaGothicE_Bold_I-webfont.ttf') format('truetype'),
+         url('fonts/dharmagothice_bolditalic_macroman/DharmaGothicE_Bold_I-webfont.svg#DharmaGothicEBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'WebSymbolsRegular';
+    src: url('fonts/websymbols/websymbols-regular-webfont.eot');
+    src: url('fonts/websymbols/websymbols-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/websymbols/websymbols-regular-webfont.woff') format('woff'),
+         url('fonts/websymbols/websymbols-regular-webfont.ttf') format('truetype'),
+         url('fonts/websymbols/websymbols-regular-webfont.svg#WebSymbolsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+

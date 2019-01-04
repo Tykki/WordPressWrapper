@@ -1,0 +1,327 @@
+body {
+padding-right: 0px;
+padding-left: 0px; 
+background:url(images/bgpattern.gif);
+padding-bottom: 0px;
+margin: 0px;
+color: #000;
+padding-top: 0px
+}
+
+html {
+padding-right: 0px;
+padding-left: 0px;
+background:url(images/bgpattern.gif);
+padding-bottom: 0px;
+margin: 0px;
+color: #000;
+padding-top: 0px
+}
+
+body{
+min-width: 740px
+}
+
+h2{
+font-family:"Trebuchet MS";
+font-size:100%;
+color:#ff0000;
+text-align:left;
+font-weight:bold;
+padding-left:10px;
+padding-right:0px;
+padding-top:10px;
+margin:0px;
+margin-bottom:10px;
+}
+
+h3{
+font-family:"Trebuchet MS";
+font-size:90%;
+color:#23415C;
+text-align:left;
+font-weight:bold;
+padding-left:10px;
+padding-right:0px;
+padding-top:10px;
+margin:0px;
+margin-bottom:10px;
+}
+
+#wrapper {
+background: #ffffff;
+margin: 0px auto; 
+width: 740px
+}
+
+#banner{
+display:block;
+border:none;
+}
+
+.hidden
+{position:absolute;
+left:0px;
+top:-500px;
+width:1px;
+height:1px;
+overflow:hidden;}
+
+/*Skip Navigation and directly go to main content*/
+#skip a, #skip a:hover, #skip a:visited 
+{ 
+position:absolute; 
+left:0px; 
+top:-500px; 
+width:1px; 
+height:1px; 
+overflow:hidden;
+} 
+
+#skip a:active {
+width: auto;
+position: static;
+height: auto;
+}
+
+#skip a:focus 
+{ 
+position:static; 
+width:auto; 
+height:auto; 
+} 
+
+#level2 {
+padding:5px;
+background-color:#990000;
+background-image:url(images/rednav.jpg);
+}
+
+#level2 ul {
+padding:0px;
+margin: 0px;
+list-style-type: none;
+text-align:center;
+}
+
+#level2 li{
+display: inline;
+padding:0px;
+margin: 0px;
+
+}
+
+#level2 li a{
+text-decoration:none;
+color:#ffffff;
+outline:none;
+font-family:Arial, Helvetica, sans-serif;
+font-size:75%;
+font-weight:bold;
+padding-left:26px;
+padding-right:26px;
+}
+
+#level2 li a:hover{
+color:#000000;
+font-weight:bold;
+}
+
+#level3{
+background-image:url(images/idbanner.jpg);
+height:40px;
+padding-top:160px;
+padding-left:10px;
+}
+
+.level3_upassAdj{
+padding-bottom: 40px;
+/*margin-bottom: 20px;*/
+}
+
+#level3_upass{
+background-image:url(images/upass_banner.jpg);
+height:40px;
+padding-top:160px;
+padding-left:10px;
+}
+
+#header_graphics{
+display:block;
+}
+
+#q{
+width:200px;
+}
+
+#search_form{
+margin:0;
+padding:0;
+}
+
+p.search_para{
+margin:0;
+padding:0;
+}
+
+#search{
+background-color:#FFFFFF;
+padding-left:10px;
+}
+
+#level4_main_home {
+background: #ffffff; 
+width: 730px;
+padding-left:10px;
+}
+
+.logo_images{
+border:none;
+}
+
+
+#level4_main {
+background: #ffffff; 
+float: left;
+width: 535px;
+}
+
+p.content{
+font-family:"Trebuchet MS";
+font-size:80%;
+color:#000000;
+text-align:left;
+padding-left:10px;
+padding-right:0px;
+padding-bottom: 0px; 
+padding-top: 0px;
+line-height:175%;
+margin:0px;
+margin-bottom:10px;
+}
+
+p.content span{
+color:#990000;
+font-weight:bold;
+}
+
+#level4_main ul{
+line-height:175%;
+margin-top:0px;
+}
+
+#level4_main ul li{
+list-style:square;
+font-family:"Trebuchet MS";
+font-size:80%;
+color:#000000;
+text-align:left;
+}
+
+#level4_main ul li a{
+font-family:"Trebuchet MS";
+font-size:100%;
+color:#000000;
+text-align:left;
+text-decoration:underline;
+}
+
+#level4_sidebar {
+background: #ffffff; 
+float: right;
+width:190px;
+}
+
+.buttons{
+background-image:url(images/nav_bg.jpg);
+background-repeat:no-repeat;
+height:320px;
+}
+
+.buttons ul{
+margin:0;
+padding:0;
+list-style:none;
+line-height:0px;
+padding-top:20px;
+}
+
+.buttons ul li{
+margin:0px;
+padding:0px;
+}
+
+.buttons ul li a {color: #23415C;
+width:160px;
+padding-top:10px;
+padding-bottom:10px;
+margin-left:12px;
+display: block;
+border-bottom:2px #CCCCCC dotted;
+outline:none;
+font-family:Arial, Helvetica, sans-serif;
+font-size:80%;
+font-weight: bold;
+text-decoration: none;
+text-align: left;
+line-height:normal;}
+
+.buttons ul li a:hover {
+color:#990000;
+text-decoration: none;}
+
+.logo_link{
+outline:none;
+}
+
+.logo{
+border:none;
+}
+
+#level5 {
+clear: both;
+background:#E9E9E9;
+color:#AA0000;
+min-height:65px;
+}
+
+#level5 p {
+margin: 0px;
+padding:5px;
+font-size: 0.64em;
+font-family: Arial, Helvetica, sans-serif;
+text-align:center;
+color:#003366;
+}
+
+#level5 a{
+font-family:Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 0.7em;
+}
+
+#level5 A:link {
+	COLOR:#003366;
+}
+#level5 A:visited {
+	COLOR:#003366;
+}
+#level5 A:hover {
+	COLOR:#666666;
+}
+
+#bottom_utility {
+margin:0px;
+padding-bottom:0px;
+padding-top: 0.5em;
+text-align:center;
+}
+
+img.floatLeft { 
+    float: left; 
+    margin: 8px; 
+}
+img.floatRight { 
+    float: right; 
+    margin: 8px; 
+}

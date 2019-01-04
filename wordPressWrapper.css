@@ -1,0 +1,463 @@
+body{
+	padding-top: 105px;
+	font-family: Theinhardt,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #363636;
+    line-height: 1.2;
+    background-color: #f8f8f8;
+}
+
+#serImg{
+	background-image: url(https://studentcenters.red.uic.edu/wp-content/uploads/sites/159/2017/11/SC_Banner_about.jpg);
+	background-repeat: no-repeat;
+	height: 188px;
+	min-height: 188px;
+	background-size: 100%;
+	min-width: 1631px;
+	margin-top: -46px;
+}
+
+#imgCover {
+    background-image: linear-gradient(to bottom,#7474ff,#ff5959);
+    mix-blend-mode: multiply;
+}
+#imgCover {
+    top: 59px;
+    min-height: 166px;
+    height: inherit;
+    background-size: 100%;
+    min-width: 1631px;
+    /*background-image: linear-gradient(to bottom,#005677,#80276c);*/
+}
+#imgCover {
+    display: block;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-indent: -9999px;
+    white-space: nowrap;
+    overflow: hidden;
+    position: absolute;
+}
+
+.menu-main>li>a:after {
+    background-color: transparent;
+    bottom: 0;
+    content: '';
+    height: 5px;
+    transition: all .3s cubic-bezier(.7,.3,.75,1.4);
+    left: 0;
+    position: absolute;
+    transform: translateY(105%);
+    right: 0;
+    width: 100%;
+}
+
+.menu-main>li>a:focus:after, .menu-main>li>a:hover:after {
+    transform: translateY(0);
+    background-color: #fff;
+}
+
+#blueNav .menu-main>li>ul>li>a {
+    background-image: linear-gradient(to right,#940023,#940023 45%,#001e62 50%,#001e62);
+}
+
+#greenNav .menu-main>li>ul>li>a {
+    background-image: linear-gradient(to right,#001e62,#001e62 45%,#007fa5 50%,#007fa5);
+}
+
+#blueNav .menu-main>li>ul>li>a:hover, #greenNav .menu-main>li>ul>li>a:hover {
+	background-position: 0 0;
+}
+
+
+section.navbar-header{
+	margin-top: 1%;
+}
+
+.glyphicon-smooth-circle:before{
+	content: "\25cf";
+	font-size: 33px;
+}
+
+
+/*a.navbar-brand{
+	padding: 0px;
+}*/
+
+/*ul.nav.navbar-nav{
+	width: 50%;
+	min-width: 1130px;	
+}*/
+
+section#menuDropDown.collapse.navbar-collapse{
+	min-width: 840px;
+}
+
+#uicLogo{
+	min-width: 35px;
+	margin-top: 17px;
+	margin-left: 7px;
+	padding: 0px;
+	height: auto;
+}
+
+#brandImg{
+	width: 42px;
+}
+
+#blueNav.navbar-default{
+	background-color: #001e62;
+	border: 0px;
+}
+
+#greenNav.navbar-default{
+	background-color: #007fa5;
+	border: 0px;
+}
+
+.navbar-toggle, .navbar-brand, .navbar-nav>li>a{
+	color: white !important;
+
+}
+
+#menuDropDown b{
+	text-transform: uppercase;
+}
+
+.dropdown-menu{
+	border: 0px;
+	padding: 0px;
+	top: 52px;
+	background-color: transparent !important;
+	font-size: 16px;
+}
+
+ul.dropdown-menu, ul.dropdown-menu>li>a{
+	color: white !important;
+	background-size: 480px;
+    background-position: -240px 0;
+    transition: .5s all;
+   	margin-bottom: 1px;
+}
+
+#blueNav ul.dropdown-menu, #blueNav ul.dropdown-menu>li>a{
+	background-color: #001e62;
+}
+
+#greenNav ul.dropdown-menu, #greenNav ul.dropdown-menu>li>a{
+	background-color: #007fa5;
+	white-space: normal;
+}
+
+#blueNav.dropdown-menu>li>a:focus{
+	background-color: #7c222a;
+}
+
+#greenNav.dropdown-menu>li>a:focus{
+	background-color: #001e62;
+}
+
+span.icon-bar{
+	background-color: white !important;
+}
+
+#blueNav.navbar-default .navbar-nav>.open>a, #blueNav.navbar-default .navbar-nav>.open>a:focus, #blueNav.navbar-default .navbar-nav>.open>a:hover {
+    background-color: #7c222a;
+
+}
+
+#greenNav.navbar-default .navbar-nav>.open>a, #greenNav.navbar-default .navbar-nav>.open>a:focus, #greenNav.navbar-default .navbar-nav>.open>a:hover {
+    background-color: #001e62;
+}
+
+ul.dropdown-menu>li>a{
+	padding: 15px 20px 15px 20px;
+}
+
+#blueNav ul.dropdown-menu>li>a:hover{
+    background-color: #7c222a;
+
+}
+
+#greenNav ul.dropdown-menu>li>a:hover{
+    background-color: #001e62;
+}
+
+#blueNav.navbar-default .navbar-toggle:focus, #blueNav.navbar-default .navbar-toggle:hover {
+    background-color: #7c222a;
+    
+}
+
+#greenNav.navbar-default .navbar-toggle:focus, #greenNav.navbar-default .navbar-toggle:hover {
+    background-color: #001e62;
+}
+
+#blueNav.nav>li>a:hover{
+	background-color: #7c222a;
+
+}
+
+#greenNav.nav>li>a:hover{
+	background-color: #001e62;
+}
+
+@media (max-width: 767px){
+	#blueNav.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, #blueNav.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{
+		background-color: #7c222a;
+	}
+
+	#greenNav.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, #greenNav.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{
+		background-color: #001e62;
+	}
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 400px;
+}
+
+#sideNav .nav>li>a{
+	padding: 7px 15px 7px 0px;
+}
+
+#sideNav .nav>li{
+	padding: 7px 0px 7px 0px;
+	border-color: #d8d8d8;
+}
+
+.nav>li>a:hover, .nav>li>a:focus{
+	background-color: transparent;
+}
+
+.breadcrumb{
+	font-size: 14px;
+}
+
+.breadcrumb>li+li:before{
+	content: "\25b6";
+	font-size: 10px;
+}
+
+.crumbHolder{
+	margin-left: -30px;
+}
+
+.breadcrumb span.glyphicon{
+	color: #d50032;
+	top: 4px;
+}
+
+.breadcrumb>.active{
+	color: #d50032;
+}
+
+hr{
+	margin: 0px;
+	border-color: #d8d8d8;
+
+}
+
+a{
+	color: black;
+}
+
+b#mainSideLink{
+	color: #001e62;
+	text-transform: uppercase;
+}
+
+b#secSideLink{
+	color: #d50032;
+}
+
+#sideNav a:hover{
+	color: #d50032;
+}
+
+#sideNav{
+	margin-right: 35px;
+}
+
+.lite-bg{
+	background-color: #363636;
+	font-size: 14px;
+}
+
+.lite-bg a, .lite-bg p{
+	color: white !important;
+}
+
+#eyebrowMenu{
+	padding-left: 0;
+	margin-left: 0;
+	margin-bottom: 0px;
+	font-size: 14px;
+}
+
+#eyebrowMenu a{
+	color: white;
+}
+
+#eyebrowMenu span{
+	color: white;
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+ul.redDot {
+  list-style: none; 
+}
+
+
+ul.redDot li::before {
+	display: inline-block;
+  	color: #d50032;  
+  /* color of bullet or square */
+  	content: "\2022"; 
+  /* Unicode of character to precede the list item */
+  width: 1em;
+  margin-left: -1em;
+}
+
+b>span{
+	font-size: 17px;
+	color: #d50032;
+}
+
+a.navbar-brand.soMedIcon{
+	padding: 0;
+	height: inherit;
+	margin: 0 !important;
+}
+
+.soMedHolder{
+	margin-right: 45px;
+	margin-bottom: 20px;
+	list-style: none;
+}
+
+.soMedIcon:hover>i{
+	-webkit-text-fill-color: #d50032;
+}
+
+.soMedIcon i{
+	-webkit-text-fill-color: white;
+}
+
+.dropdown:hover .dropdown-menu {
+display: block;
+
+}
+
+/*#blueNav li.dropdown:hover {
+    background-color: #7c222a;
+}
+
+#greenNav li.dropdown:hover {
+    background-color: #001e62;
+}*/
+
+#email{
+	text-decoration: underline;
+	color: white;
+	padding-top: 0px;
+}
+#email:hover{
+	text-decoration: none !important;
+}
+
+#footer{
+	margin-top: 25px;
+	margin-bottom: 0;
+	padding-top: 15px;
+}
+
+#footer #brandImg{
+	width: 34px;
+}
+
+#footer .navbar-header{
+	right: 45px;
+}
+
+#footer .nav>li>a:hover{
+	text-decoration: underline;
+}
+
+#footer a.navbar-brand>b{
+	font-size: 16px;
+}
+
+#footerHr{
+	color: #252525;
+	border: 0;
+	height: 1px;
+}
+
+/*#footer-links{
+	margin-top: 25px;
+}*/
+#footer-links p{
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+#footer-links b{
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+#footer-links a{
+	color: white;
+	font-size: 14px;
+}
+
+#footer-links div.col-md-2 li, #footer-links div.col-md-3 li {
+	padding-bottom: 7px;
+}
+
+li.lite-bg {
+	margin-bottom: 2px;
+}
+
+.btn-footer{
+	display: inherit;
+	text-align: inherit;
+	border-radius: 0px;
+	border-color: inherit;
+	
+}
+
+.btn-footer:hover, .btn-footer:active:hover, .btn-footer:active{
+	background-color: #001e62;
+	border-color: #001e62;
+	transition: all .3s cubic-bezier(.7,.3,.75,1.4);
+}
+
+#siteName:hover{
+	color: #e2ebff !important;
+}
+
+#siteName{
+	/*margin-left: 50%;*/
+}
+
+#footerBtn{
+	margin-top: 15px;
+	padding-bottom: 25px;
+}
+#footerBtn li{
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+#footerBtn li a{
+text-decoration: none;
+}
+
+
+#footer #uicLogo{
+	margin: 0 30px 0 -15px;
+	padding: 5px 0px 0px 0px;
+}

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<CATALOG>
+<!-- SCW Floor 1 -->
+	<SV>
+		<KEYWORD>art</KEYWORD>
+		<TITLE>Art Lounge</TITLE>
+		<PHONE>(312) 413-5183</PHONE>
+		<HOURS><![CDATA[Monday - Friday 9:00 am - 5:00 pm]]></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center West.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/studentcenters/docs/24hourstudylounges.pdf</WEBSITE>
+		<IMAGE>images/SCW-Art-Lounge.jpg</IMAGE>
+		<ALT>Art Lounge</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>cent</KEYWORD>
+		<TITLE>Centennial Room</TITLE>
+		<PHONE>(312) 413-5675</PHONE>
+		<HOURS><![CDATA[<table border="0" cellspacing="0" cellpadding="0" width="504">
+              <colgroup>
+              <col width="236" />
+              <col width="174" />
+              <col width="153" />
+              <col width="128" />
+
+              </colgroup>
+              <tbody>
+                <tr height="21">
+                  <td width="95" height="21"><!-- <p><strong>RECOVERY   ROOM&nbsp;</strong></p>
+                  <p><strong><em>(lower level)</em></strong></p> --></td>
+                  <td width="120"><strong>Breakfast &amp; Lunch</strong></td>
+
+                  <td width="128"><strong>Dinner</strong></td>
+                  <td width="161"><strong>Late Night</strong></td>
+                </tr>
+                <tr height="21">
+                  <td height="63">Monday-Thursday</td>
+                  <td>7:30am-3:00pm</td>
+                  <td>4:30pm-8:00pm</td>
+
+                  <td>9:00pm-Midnight</td>
+                </tr>
+                <tr height="21">
+                  <td height="36">Friday</td>
+                  <td>7:30am-3:00pm</td>
+                  <td>4:30pm-8:00pm</td>
+                  <td></td>
+
+                </tr>
+                <tr height="21">
+                  <td height="39">Saturday</td>
+                  <td>9:30am-2:00pm</td>
+                  <td>4:30pm-8:00pm</td>
+                  <td></td>
+                </tr>
+
+                <tr height="21">
+                  <td height="48">Sunday</td>
+                  <td>9:30am-2:00pm</td>
+                  <td>4:30pm-8:00pm</td>
+                  <td>9:00pm-Midnight</td>
+                </tr>
+              </tbody>
+            </table>]]></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center West.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/chcc/SCW%20Directory19.html</WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>Centennial Room</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>service</KEYWORD>
+		<TITLE>Service Center West</TITLE>
+		<PHONE>(312) 413-5200</PHONE>
+		<HOURS><![CDATA[Monday - Friday: 8:30 am - 6:00 pm]]></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center West.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/chcc/Service%20Center.html</WEBSITE>
+		<IMAGE>images/SCW-InfoCenter.jpg</IMAGE>
+		<ALT>Service Center</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>lounge</KEYWORD>
+		<TITLE>Lounge</TITLE>
+		<PHONE></PHONE>
+		<HOURS></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center West.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/studentcenters/docs/24hourstudylounges.pdf</WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>Lounge</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>market</KEYWORD>
+		<TITLE>Marketplace</TITLE>
+		<PHONE>(312) 413-5675</PHONE>
+		<HOURS><![CDATA[Monday - Friday: 7:30 am - 3:00 pm]]></HOURS>
+		<LOCATION>Located on the 1st floor of Student Residence Hall. </LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/chcc/SCW%20Directory16.html</WEBSITE>
+		<IMAGE>images/SCW-Marketplace.jpg</IMAGE>
+		<ALT>Marketplace</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	
+<!-- SCW Floor 2 -->
+	<SV>
+		<KEYWORD>admin</KEYWORD>
+		<TITLE>Administrative Offices</TITLE>
+		<PHONE>(312) 413-5223</PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:30 am - 5:00 pm]]></HOURS>
+		<LOCATION>Located on the 2nd level Room 242, Student Center West.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/chcc/SCW%20Directory2.html</WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>Administrative Offices</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>housing</KEYWORD>
+		<TITLE>Campus Housing Office</TITLE>
+		<PHONE>(312) 355-6300</PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:30 am - 5:00 pm]]></HOURS>
+		<LOCATION>Located in Room 220 Student Residence Hall 2nd level.</LOCATION>
+		<WEBSITE>http://www.housing.uic.edu/</WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>Campus Housing</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>chi</KEYWORD>
+		<TITLE>Michele Thompson Rooms </TITLE>
+		<PHONE></PHONE>
+		<HOURS></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center West.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/meetings/</WEBSITE>
+		<IMAGE>images/SCW--Room-AB.jpg</IMAGE>
+		<ALT>Michele Thompson Rooms </ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>meeting</KEYWORD>
+		<TITLE>Meeting Rooms</TITLE>
+		<PHONE></PHONE>
+		<HOURS></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center West.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/meetings/</WEBSITE>
+		<IMAGE>images/SCW--Room-AB.jpg</IMAGE>
+		<ALT>Meeting Rooms</ALT>
+		<FLOOR>F2</FLOOR>
+		<FLOOR>FB</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>id</KEYWORD>
+		<TITLE>Photo ID</TITLE>
+		<PHONE>(312) 413-5944</PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:30 am - 4:00 pm]]></HOURS>
+		<LOCATION>Located in room 241, 2nd level of Student Center West.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/idcenter/</WEBSITE>
+		<IMAGE>images/SCW-IdCenter.jpg</IMAGE>
+		<ALT>Photo ID</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+
+<!-- SCW Lower Level -->
+	<SV>
+		<KEYWORD>barber</KEYWORD>
+		<TITLE>Barber Shop</TITLE>
+		<PHONE>(312) 413-5255</PHONE>
+		<HOURS><![CDATA[Monday - Friday 9:30 am - 5:30 pm]]></HOURS>
+		<LOCATION>Located in the lower level of Student Center West.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/chcc/SCW%20Directory15.html</WEBSITE>
+		<IMAGE>images/SCW-BarberShop.jpg</IMAGE>
+		<ALT>Barber Shop</ALT>
+		<FLOOR>FB</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>pub</KEYWORD>
+		<TITLE>Publication Services</TITLE>
+		<PHONE>(312) 996-3562</PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:00 am - 5:00 pm]]></HOURS>
+		<LOCATION>Located in the lower level of Student Center West. Room B4</LOCATION>
+		<WEBSITE>http://www.housing.uic.edu/</WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>Publication Services</ALT>
+		<FLOOR>FB</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>book</KEYWORD>
+		<TITLE>UIC Medical Bookstore</TITLE>
+		<PHONE>(312) 413-5550</PHONE>
+		<HOURS><![CDATA[Monday and Thursday 8:30 am - 6:00 pm<br>
+		Tuesday, Wednesday, Friday 8:30 am - 5:00 pm]]></HOURS>
+		<LOCATION>Located in the 1st floor of Student Center West.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<IMAGE>images/SCW-MedBookStrore.jpg</IMAGE>
+		<ALT>UIC Medical Bookstore</ALT>
+		<FLOOR>FB</FLOOR>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>parking</KEYWORD>
+		<TITLE>Parking Office</TITLE>
+		<PHONE>(312) 413-5550</PHONE>
+		<HOURS><![CDATA[Monday and Thursday 8:30 am - 6:00 pm<br>
+		Tuesday, Wednesday, Friday 8:30 am - 5:00 pm]]></HOURS>
+		<LOCATION>Located in the 1st floor of Student Center West.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<IMAGE>images/SCW-Parking.jpg</IMAGE>
+		<ALT>Parking Office</ALT>
+		<FLOOR>FB</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>newman</KEYWORD>
+		<TITLE>UIC Newman Center</TITLE>
+		<PHONE>(312) 355-4254</PHONE>
+		<HOURS><![CDATA[Monday - Friday 9:00 am - 5:00 pm]]></HOURS>
+		<LOCATION>Located in the basement of Student Center West next to the Parking Office and the Barber Shop in Room B5.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>UIC Newman Center</ALT>
+		<FLOOR>FB</FLOOR>
+	</SV>
+
+	
+	
+</CATALOG>

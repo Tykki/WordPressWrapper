@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--"Miscellaneous Services" at the bottom contains common tags for floors F-3 and T-3,6,7 -->
+<CATALOG>
+<!-- Main Building Floors -->
+<!-- SCE Floor 1 -->
+	<SV><!-- Used on basement floor-->
+		<KEYWORD>bookstore</KEYWORD>
+		<TITLE>UIC Bookstore</TITLE>
+		<PHONE>(312) 413-5500</PHONE>
+		<HOURS><![CDATA[Monday &amp; Thursday 8:30 am - 6:00 pm <br /> Tuesday, Wednesday &amp; Friday 8:30 am - 5:00 pm <br /> Saturday - Sunday Closed ]]></HOURS>
+		<LOCATION>Located on the 1st level and basement level of Student Center East.</LOCATION>
+		<WEBSITE>http://www.uicbookstore.org/</WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>UIC Bookstore</ALT>
+		<FLOOR>F1</FLOOR>
+		<FLOOR>FB</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>chickfila</KEYWORD>
+		<TITLE>Chick-Fil-A</TITLE>
+		<PHONE></PHONE>
+		<HOURS>Coming Soon</HOURS>
+		<LOCATION>Located on the 1st level of Student Center East near the UIC Bookstore.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<ALT>Chick-Fil-A</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>salon</KEYWORD>
+		<TITLE>Midwest Salon</TITLE>
+		<PHONE>(312) 413-7822</PHONE>
+		<HOURS><![CDATA[Monday-Friday 10:00 am - 7:00 pm<br />]]></HOURS>
+		<LOCATION>Located on the 1st level of Student Center East adjacent to the Barber Shop.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<ALT>Midwest Salon</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>pandaexpress</KEYWORD>
+		<TITLE>Panda Express</TITLE>
+		<PHONE></PHONE>
+		<HOURS>Coming Soon</HOURS>
+		<LOCATION>Located on the 1st level of Student Center East near the UIC Bookstore.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<ALT>Panda Express</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>visitor</KEYWORD>
+		<TITLE>Barber Shop</TITLE>
+		<PHONE>(312)996-8623</PHONE>
+		<HOURS><![CDATA[Monday-Friday 8:00 am - 5:30 pm<br />]]></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center East on west concourse</LOCATION>
+		<WEBSITE></WEBSITE>
+		<ALT>UIC Bookstore</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>cafeteria</KEYWORD>
+		<TITLE>East Cafe`</TITLE>
+		<PHONE>(312) 413-5675</PHONE>
+		<HOURS><![CDATA[Monday - Thursday 7:30 am - 3:00 pm, 4:30 pm - 8:00 pm, 9:00 pm - 12:00 midnight <br />
+		Friday	7:30 am - 3:00 pm, 4:30 pm - 8:00 pm<br />
+		Saturday 9:30 am - 2:00 pm, 4:30 pm - 9:00 pm<br />
+		Sunday	9:30 am - 2:00 pm, 4:30 pm - 9:00 pm, 9:00 pm - 12:00 midnight
+		]]></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center East.</LOCATION>
+		<WEBSITE>http://www.dining.uic.edu/</WEBSITE>
+		<IMAGE>images/eastcafe.jpg</IMAGE>
+		<ALT>East Cafe` and Dining Rooms</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>bowling</KEYWORD>
+		<TITLE>The Alley: Bowling, Billiards &amp; Video Games</TITLE>
+		<PHONE>(312) 413-5170</PHONE>
+		<HOURS>
+		<![CDATA[Monday - Thursday 12:00 pm - 10:00 pm<br />
+		Friday - Saturday 12:00 pm - Midnight<br />
+		Sunday 12:00 pm - 10:00 pm]]>
+		</HOURS>
+		<LOCATION>Located on the first floor of Student Center East.</LOCATION>
+		<WEBSITE>http://studentcenters.uic.edu/games.shtml</WEBSITE>
+		<ALT>UIC Bookstore</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>barber</KEYWORD><!--The keyword was created in origianl file and has been kept same-->
+		<TITLE>UIC copying</TITLE>
+		<PHONE>(312)996-6868</PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:30 am - 4:45 pm]]></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center East on the west concourse.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<ALT></ALT>
+		<FLOOR>F1</FLOOR>
+		
+	</SV>
+	<SV>
+		<KEYWORD>service</KEYWORD>
+		<TITLE>SCE Building Managment</TITLE>
+		<PHONE>(312) 413-5100</PHONE>
+		<HOURS><![CDATA[Daily: 6:30 am - 12:00 am]]></HOURS>
+		<LOCATION>Located on the 1st floor entrance of Student Center East.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/studentcenters/service.shtml</WEBSITE>
+		<ALT>Service Center</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>descartes</KEYWORD>
+		<TITLE>Cafe Descartes</TITLE>
+		<PHONE>(312) 413-9158</PHONE>
+		<HOURS><![CDATA[Monday - Thursday 6:60 am - 6:30 pm<br />
+		Friday 6:30 am - 4:30 pm<br />
+		Saturday - Sunday Closed
+		]]></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center East.</LOCATION>
+		<WEBSITE>http://www.dining.uic.edu/</WEBSITE>
+		<ALT>Cafe Descartes</ALT>
+		<FLOOR>F1</FLOOR>
+	</SV>
+
+<!-- SCE Floor 2 -->
+	<SV>
+		<KEYWORD>amz</KEYWORD>
+		<TITLE>Amazon@UIC</TITLE>
+		<PHONE></PHONE>
+		<HOURS><![CDATA[Monday - Friday 9:00 am - 9:00 pm </br> Satuday-Sunday: 12:00 am - 9:00 pm]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East next to Halsted Street Station.</LOCATION>
+		<WEBSITE>http://uic.amazon.com/</WEBSITE>
+		<ALT>Amazon@UIC</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>innercircle</KEYWORD>
+		<TITLE>Inner Circle</TITLE>
+		<PHONE></PHONE>
+		<HOURS><![CDATA[Monday - Thursday 8:00 am - 9:30 pm<br />Friday 8:00 am - 5:00 pm<br />Saturday - Sunday Closed<br />]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<IMAGE>images/SCE-InnerCircle.jpg</IMAGE>
+		<ALT>Inner Circle</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>tcf</KEYWORD><!--The keyword has been kept same as original file -->
+		<TITLE>PNC Bank</TITLE>
+		<PHONE>(312) 243-3147</PHONE>
+		<HOURS><![CDATA[Mon - Fri 9:00-6:00<br />
+		Sat 9-1 Sun Closed]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East next to Argo Tea.</LOCATION>
+		<WEBSITE>https://www.pnc.com/ui</WEBSITE>
+		<ALT>PNC</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>credit</KEYWORD>
+		<TITLE>Credit Union 1</TITLE>
+		<PHONE>(312) 355-0590</PHONE>
+		<HOURS><![CDATA[Mon - Tue 8:30 - 5:00<br />
+Wed	7:30 - 5:00<br />
+Thurs - Fri	8:30 - 5:00]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East.</LOCATION>
+		<WEBSITE>http://www.creditunion1.org/</WEBSITE>
+		<IMAGE>images/SCE-Credit-Union1.jpg</IMAGE>
+		<ALT>Credit Union</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>hss</KEYWORD>
+		<TITLE>Halsted Street Station</TITLE>
+		<PHONE>(312) 413-5535</PHONE>
+		<HOURS><![CDATA[Monday - Thursday 7:00 am - 7:00 pm <br />
+		Friday 7:00 am - 5:00 pm<br />
+		Saturday 9:00 am - 5:00 pm<br />
+		Sunday Closed]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/dining/hours.shtml</WEBSITE>
+		<IMAGE>images/SCE-Halsted-Station.jpg</IMAGE>
+		<ALT>Credit Union</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>copying</KEYWORD><!--The keyword has been kept same as original file -->
+		<TITLE>Argo Tea</TITLE>
+		<PHONE>(312) 462-4160</PHONE>
+		<HOURS><![CDATA[Monday - Friday 7:00 am - 10:00 pm </br> Satuday-Sunday: 9:00 am - 4:00 pm]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East next to PNC Bank.</LOCATION>
+		<WEBSITE>http://www.argotea.com/</WEBSITE>
+		<ALT>Copying</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+
+	<SV>
+		<KEYWORD>csrc</KEYWORD>
+		<TITLE>Commuter Student Resource Center</TITLE>
+		<PHONE>(312) 413-7440</PHONE>
+		<HOURS><![CDATA[Monday - Thursday 7:30am - 6:00 pm<br />
+		Friday 7:30 am - 5:00 pm</br> Saturday - Sunday Closed]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East. Enter through the doors to the right of Burrito Bravo, off the Inner Circle. Go through the Wellness Center to access the Commuter Student Resource Center. </LOCATION>
+		<WEBSITE>http://commuter.uic.edu</WEBSITE>
+		<IMAGE>images/SCE-CommuterCenter.jpg</IMAGE>
+		<ALT>Commuter Center</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>dd</KEYWORD>
+		<TITLE>Dunkin' Donuts</TITLE>
+		<PHONE>(708) 296-8724</PHONE>
+		<HOURS><![CDATA[Mon-Sun: 6:00 AM - 10:00 PM]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East.</LOCATION>
+		<WEBSITE>http://www.dunkindonuts.com</WEBSITE>
+		<ALT>Dunkin' Donuts</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>pier</KEYWORD>
+		<TITLE>Pier Room</TITLE>
+		<PHONE></PHONE>
+		<HOURS><![CDATA[Monday - Thursday 7:30 am - 11:00 pm<br />
+		Friday 7:30 am - 2:00 pm<br />
+		Saturday - Sunday Closed]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/dining/hours.shtml</WEBSITE>
+		<IMAGE>images/meetings.jpg</IMAGE>
+		<ALT>Pier Room</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>wellness</KEYWORD>
+		<TITLE>Wellness Center</TITLE>
+		<PHONE>(312) 413-2120</PHONE>
+		<HOURS><![CDATA[8:30am - 5:00pm]]></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East, over the bowling alley and behind Burrito Bravo.</LOCATION>
+		<WEBSITE>http://www.wellctr.uic.edu/</WEBSITE>
+		<IMAGE>images/SCE-WellnessCenter.jpg</IMAGE>
+		<ALT>Wellness Center</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>sceadmin</KEYWORD>
+		<TITLE>Student Center East Administrative Offices</TITLE>
+		<PHONE></PHONE>
+		<HOURS></HOURS>
+		<LOCATION>Located on the 2nd level of Student Center East</LOCATION>
+		<WEBSITE></WEBSITE>
+		<IMAGE></IMAGE>
+		<ALT>Student Center East Administrative Offices</ALT>
+		<FLOOR>F2</FLOOR>
+	</SV>
+
+
+<!-- SCE Floor 3 -->
+	<SV>
+		<KEYWORD>programs</KEYWORD>
+		<TITLE>Center for Student Involvement</TITLE>
+		<PHONE>(312) 413-5070</PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:30 am - 4:45 pm]]></HOURS>
+		<LOCATION>Located in 3 South. Take the elevator next to Bowling and Billiards to the 3rd floor.</LOCATION>
+		<WEBSITE>http://campusprograms.uic.edu/</WEBSITE>
+		<ALT>Campus Programs</ALT>
+		<FLOOR>F3</FLOOR>
+	</SV>
+		<SV>
+		<KEYWORD>radio</KEYWORD>
+		<TITLE>UIC Radio</TITLE>
+		<PHONE></PHONE>
+		<HOURS></HOURS>
+		<LOCATION></LOCATION>
+		<WEBSITE>http://www.uicradio.org/</WEBSITE>
+		<ALT>UIC Radio</ALT>
+		<FLOOR>F3</FLOOR>
+	</SV>
+	<SV> <!-- Used on floor 4-->
+		<KEYWORD>studentorg</KEYWORD>
+		<TITLE>Student Organization Offices</TITLE>
+		<PHONE></PHONE>
+		<HOURS></HOURS>
+		<LOCATION>Offices located on the 3rd and 4th floor of Student Center East South. Take the elevator to the 3rd floor near Bowling and Billiards. </LOCATION>
+		<WEBSITE></WEBSITE>
+		<ALT>Student Organizations</ALT>
+		<FLOOR>F3</FLOOR>
+		<FLOOR>F4</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>leadership</KEYWORD>
+		<TITLE>Student Leadership Development and Volunteer Programs</TITLE>
+		<PHONE>(312) 996-4500</PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:30 am - 5:00 pm <br /> 
+		Saturday - Sunday Closed]]></HOURS>
+		<LOCATION>Offices located on the 3rd floor of Student Center East South. Take the elevator to the 3rd floor near Bowling and Billiards.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/sldvs</WEBSITE>
+		<ALT>Student Leadership Development and Volunteer Programs</ALT>
+		<FLOOR>F3</FLOOR>
+	</SV>
+<!-- Tower Floors -->
+<!-- SCE Tower Floor 1 -->
+	<SV>
+		<KEYWORD>circlounge</KEYWORD>
+		<TITLE>Circle Lounge</TITLE>
+		<PHONE></PHONE>
+		<HOURS></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center East Tower.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/studentcenters/docs/24hourstudylounges.pdf</WEBSITE>
+		<IMAGE>images/SCE-StudentLounge.jpg</IMAGE>
+		<ALT>Circle Lounge</ALT>
+		<FLOOR>T1</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>buildops</KEYWORD>
+		<TITLE>Building Operations</TITLE>
+		<PHONE></PHONE>
+		<HOURS></HOURS>
+		<LOCATION>Located on the 1st floor of Student Center East Tower.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<IMAGE></IMAGE>
+		<ALT>Building Operations</ALT>
+		<FLOOR>T1</FLOOR>
+	</SV>
+<!-- SCE Tower Floor 2 -->
+	<SV>
+		<KEYWORD>wardgal</KEYWORD>
+		<TITLE>A. Montgomery Ward Gallery</TITLE>
+		<PHONE>(312) 413-5089</PHONE>
+		<HOURS><![CDATA[Monday - Thursday 12:00 noon - 9:00 pm<br />
+		Friday 12:00 noon - 5:00 pm<br />
+		Saturday - Sunday Closed<br />
+		Located on the 2nd level of Student Center East Tower.]]></HOURS>
+		<LOCATION>Located in the 4th floor of Student Center East Tower. </LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/studentcenters/</WEBSITE>
+		<IMAGE>images/SCE-MontgomeryWard.jpg</IMAGE>
+		<ALT>A. Montgomery Ward Gallery</ALT>
+		<FLOOR>T2</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>wardlounge</KEYWORD>
+		<TITLE>A. Montgomery Ward Lounge</TITLE>
+		<PHONE></PHONE>
+		<HOURS></HOURS>
+		<LOCATION>Located on the 2nd floor of Student Center East Tower.</LOCATION>
+		<WEBSITE>http://www.uic.edu/depts/studentcenters/docs/24hourstudylounges.pdf</WEBSITE>
+		<IMAGE>images/SCE-StudentLounge.jpg</IMAGE>
+		<ALT>A. Montgomery Ward Lounge</ALT>
+		<FLOOR>T2</FLOOR>
+	</SV>
+
+<!-- SCE Tower Floor 3 -->
+	<SV>
+		<KEYWORD>reflect</KEYWORD>
+		<TITLE>Reflection Room</TITLE>
+		<PHONE>(312) 413-5100</PHONE>
+		<HOURS><![CDATA[Monday - Friday 9:00 am - 7:00 pm]]></HOURS>
+		<LOCATION>Located in Room 315 Student Center East Tower.</LOCATION>
+		<WEBSITE>http://www.studentcenters.uic.edu</WEBSITE>
+		<IMAGE>images/SCE-ReflectionRoom.jpg</IMAGE>
+		<ALT>Reflection Room</ALT>
+		<FLOOR>T3</FLOOR>
+	</SV>
+
+<!-- SCE Tower Floor 4 -->
+	<SV>
+		<KEYWORD>lab</KEYWORD>
+		<TITLE>ACCC Computer Lab</TITLE>
+		<PHONE>(312) 413-0003</PHONE>
+		<HOURS><![CDATA[Monday - Friday 9:00 am - 7:00 pm]]></HOURS>
+		<LOCATION>Located in the 4th floor of Student Center East Tower. </LOCATION>
+		<WEBSITE>http://accc.uic.edu</WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>Computer Lab</ALT>
+		<FLOOR>T4</FLOOR>
+	</SV>
+
+
+<!-- SCE Tower Floor 5 -->
+	<SV>
+		<KEYWORD>uiaa</KEYWORD>
+		<TITLE>Office of the Vice Chancellor for Advancement</TITLE>
+		<PHONE>(312) 413-2992</PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:30 am - 5:00 pm]]></HOURS>
+		<LOCATION>Located on the 5th floor of Student Center East Tower.</LOCATION>
+		<WEBSITE>http://advancement.uic.edu</WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>Alumni Association</ALT>
+		<FLOOR>T5</FLOOR>
+	</SV>
+	
+<!-- SCE Tower Floor 7 -->
+	<SV>
+		<KEYWORD>casfs</KEYWORD>
+		<TITLE>Campus Auxillary Services - Financial Services</TITLE>
+		<PHONE></PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:00 am - 5:00 pm]]></HOURS>
+		<LOCATION>Located on the 7th floor of Student Center East Tower.</LOCATION>
+		<WEBSITE></WEBSITE>
+		<IMAGE>images/SCE-Financial-Services.jpg</IMAGE>
+		<ALT>Financial Services</ALT>
+		<FLOOR>T7</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>cashr</KEYWORD>
+		<TITLE>Campus Auxiliary Services Human Resources</TITLE>
+		<PHONE>(312) 355-3350</PHONE>
+		<HOURS><![CDATA[Monday - Friday 8:30 am - 5:00 pm]]></HOURS>
+		<LOCATION>Room 702 Student Center East Tower </LOCATION>
+		<WEBSITE></WEBSITE>
+		<IMAGE>images/bookstore.jpg</IMAGE>
+		<ALT>Campus Auxillary Services Employment</ALT>
+		<FLOOR>T7</FLOOR>
+	</SV>
+
+<!-- SCE Tower Floor 8-->
+	<SV>
+		<KEYWORD>off</KEYWORD>
+		<TITLE>Campus Auxiliary Services Information Technology (CASIT)</TITLE>
+		<PHONE> (312) 413-5135</PHONE>
+		<HOURS>Monday - Friday 8:30 am - 5:00 pm</HOURS>
+		<LOCATION> Located on the 8th floor of Student Center East Tower</LOCATION>
+		<WEBSITE>http://casit.uic.edu</WEBSITE>
+		<ALT></ALT>
+		<FLOOR>T8</FLOOR>
+	</SV>
+
+<!-- Miscellaneous Services -->
+	<SV>
+		<KEYWORD>conferencerooms</KEYWORD>
+		<TITLE>Meetings and Conferences - Conference Rooms</TITLE>
+		<PHONE>(312) 413-5040</PHONE>
+		<HOURS></HOURS>
+		<LOCATION></LOCATION>
+		<WEBSITE>http://meetings.vcsa.uic.edu</WEBSITE>
+		<IMAGE>images/meetings.jpg</IMAGE>
+		<ALT>Conference Rooms</ALT>
+		<FLOOR>F3</FLOOR>
+	</SV>
+	<SV>
+		<KEYWORD>meetingrooms</KEYWORD>
+		<TITLE>Meetings and Conferences - Meeting Rooms</TITLE>
+		<PHONE>(312) 413-5040</PHONE>
+		<HOURS></HOURS>
+		<LOCATION></LOCATION>
+		<WEBSITE>http://meetings.uic.edu/</WEBSITE>
+		<IMAGE>images/meetings.jpg</IMAGE>
+		<ALT>Meeting Rooms</ALT>
+		<FLOOR>F3</FLOOR>
+		<FLOOR>T6</FLOOR>
+		<FLOOR>T7</FLOOR>
+		<FLOOR>T3</FLOOR>
+	</SV>
+	
+</CATALOG>

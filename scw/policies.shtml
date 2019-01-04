@@ -1,0 +1,51 @@
+<!--#include virtual="about_top.shtml"-->
+
+<div id="level6">
+
+<div id="about_left">
+<div id="about_mission">
+<h2 class="white">OUR</h2>
+<h2 class="blackI">MISSION</h2>
+<p class="ccontent_white">The student centers serve as the heart of UIC, where the quality and enjoyment of Community life are enhanced through learning experiences, opportunities for involvement, availability of resources and fun.</p>
+</div>
+<div id="about_links">
+<ul>
+<li class="about_inactive_links"><a href="service.shtml">LOCATIONS</a></li>
+<li class="about_inactive_links"><a href="directory.shtml">BUILDING DIRECTORY</a></li>
+<li class="about_inactive_links"><a href="lockers.shtml">LOCKER REGISTRATION</a></li>
+<li class="about_inactive_links"><a href="centervision.shtml">STUDENT CenterVISION</a></li>
+<li class="about_inactive_links"><a href="lost.shtml">LOST AND FOUND</a></li>
+<li id="about_inactive_link"><a href="donation.shtml">DONATION BINS</a></li>
+<li class="about_active_links"><a href="policies.shtml">POLICIES</a></li>
+<li class="about_inactive_links"><a href="reports.shtml">REPORTS</a></li>
+</ul>
+</div>
+</div>
+
+<div id="about_right">
+<div id="about_main">
+<h2 class="white">STUDENT CENTERS</h2>
+<h2 class="whiteI">POLICIES</h2>
+<hr class="gray">
+<br>
+
+<p class="ccontent_white"><a href="docs/24hourstudylounges.pdf" class="extlink">24 Hour Study Lounge Policy</a></p>
+
+<p class="ccontent_white"><a href="docs/studentcenterloungepolicy.pdf" class="extlink">Student Center Lounge Policy</a></p>
+
+<p class="ccontent_white"><a href="docs/lockerusage.pdf" class="extlink">Locker Usage Policy</a></p>
+
+<p class="ccontent_white"><a href="http://www.uic.edu/depts/dos/handbook/admin_demonstrationpolicy.html" class="extlink">Demonstration Policy</a></p>
+
+<p class="ccontent_white"><a href="docs/studentcentersdonationbinpolicy.pdf" class="extlink">Donation Bin Policy</a></p>
+
+</div>
+</div>
+
+<div class="clear_div"></div>
+</div>
+
+</div>
+
+<div id="level7">
+<!--#include virtual="footer.html" -->

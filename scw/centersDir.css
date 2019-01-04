@@ -1,0 +1,192 @@
+body{
+	padding-top: 105px;
+	/*font-family: Theinhardt,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #363636;
+    line-height: 1.2;*/
+}
+
+section.navbar-header{
+	margin-top: 1%;
+}
+
+ul.nav.navbar-nav{
+	width: 50%
+	min-width: 1130px;	
+}
+
+section#menuDropDown.collapse.navbar-collapse{
+	min-width: 840px;
+}
+
+#uicLogo{
+	width: 53%;
+	min-width: 35px;
+	padding-top: 5px;
+}
+
+.navbar-default{
+	background-color: #001e62;
+}
+
+.navbar-toggle, .navbar-brand, .navbar-nav>li>a{
+	color: white !important;
+
+}
+
+.dropdown-menu, .dropdown-menu>li>a{
+	color: white !important;
+	background-color: #001e62;
+}
+
+.dropdown-menu>li>a:focus{
+	background-color: #7c222a;
+}
+
+span.icon-bar{
+	background-color: white !important;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    background-color: #7c222a;
+}
+
+ul.dropdown-menu>li>a:hover{
+    background-color: #7c222a;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #7c222a;
+}
+
+.nav>li>a:hover{
+	background-color: #7c222a;
+}
+
+@media (max-width: 767px){
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{
+		background-color: #7c222a;
+	}
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 400px;
+}
+
+.nav>li>a:hover, .nav>li>a:focus{
+	background-color: white;
+}
+
+.breadcrumb{
+	background-color: white;
+}
+
+.breadcrumb>.active{
+	color: #d50032;
+}
+
+hr{
+	margin: 0px;
+
+}
+
+#footerHr{
+	color: #252525;
+	border: 0;
+	height: 1px;
+}
+
+a{
+	color: black;
+}
+
+#sideNav a:hover{
+	color: #d50032;
+}
+
+#sideNav{
+	margin-right: 35px;
+}
+
+.lite-bg{
+	background-color: #363636;
+	font-size: 14px;
+}
+
+.lite-bg a, .lite-bg p{
+	color: white !important;
+}
+
+#footer .nav>li>a:hover{
+	text-decoration: underline;
+}
+
+#eyebrowMenu{
+	padding-left: 0;
+	margin-left: 0;
+	margin-bottom: 0px;
+}
+
+#eyebrowMenu a{
+	color: white;
+}
+
+#eyebrowMenu span{
+	color: white;
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+ul.redDot {
+  list-style: none; 
+}
+
+
+ul.redDot li::before {
+	display: inline-block;
+  	color: #d50032;  
+  /* color of bullet or square */
+  	content: "\2022"; 
+  /* Unicode of character to precede the list item */
+  width: 1em;
+  margin-left: -1em;
+}
+
+b>span{
+	font-size: 17px;
+	color: #d50032;
+}
+
+.dropdown:hover .dropdown-menu {
+display: block;
+
+}
+
+li.dropdown:hover {
+    background-color: #7c222a;
+}
+
+#email{
+	text-decoration: underline;
+}
+#email:hover{
+	text-decoration: none !important;
+}
+
+#map_images{
+	margin-left: 17%;
+}
+#scw{
+	margin-left: 27% !important;
+}
+#scw_right{
+	float: none !important;
+}
+#summary{
+	margin-left: 17%;
+}
+
+#footer a.navbar-brand>b{
+	font-size: 15px;
+}

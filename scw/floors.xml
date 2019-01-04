@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<CATALOG>
+	<FLOORNAME>
+		<KEYWORD>mainbuilding</KEYWORD>		
+		<IMAGE>images/Full-Image-SCW(No-Icons).jpg</IMAGE>	
+		<MAP>#MapMainBuilding</MAP>
+		<INFO><![CDATA[<h2>Main Building</h2> <br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>mainfloor1</KEYWORD>
+		<IMAGE>images/Floor-1-SCW.jpg</IMAGE>
+		<MAP>#Map1</MAP>
+		<INFO><![CDATA[<h2>Floor 1</h2>
+		UIC Medical Bookstore<br>
+		Art Lounge<br>
+		Centennial Room<br>
+		Marketplace<br>
+		Service Center<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>mainfloor2</KEYWORD>		
+		<IMAGE>images/Floor-2-SCW.jpg</IMAGE>	
+		<MAP>#Map2</MAP>
+		<INFO><![CDATA[<h2>Floor 2</h2>
+		Administrative Offices<br>
+		Campus Housing Office<br>
+		Michele Thompson Rooms<br>
+		Photo ID<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>lower</KEYWORD>		
+		<IMAGE>images/Lower-Level-SCW.jpg</IMAGE>	
+		<MAP>#MapB</MAP>
+		<INFO><![CDATA[<h2>Lower Level</h2>
+		Barber Shop<br>
+		Parking Office<br>
+		Publication Services<br>
+		UIC Medical Bookstore<br>
+		UIC Newman Center<br>]]></INFO>
+	</FLOORNAME>
+</CATALOG>

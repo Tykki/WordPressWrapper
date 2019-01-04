@@ -1,0 +1,12 @@
+#My first allowed.netids file.
+#Comments start with a # sign.  I love comments.
+<contact>
+<a href="mailto:msciac2@uic.edu">msciac2@uic.edu</a>
+
+# IP addresses can be numbers or names
+# If you give a name, it's matched as a suffix.
+# If you give a number, it's matched as a prefix; the *'s
+#   remind you of this.
+# But you can't match in the middle:  'tigger.*.uic.edu' won't work.
+<allow groups>
+all

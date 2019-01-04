@@ -1,0 +1,58 @@
+<!--#include virtual="about_top.shtml"-->
+
+<div id="level6">
+
+<div id="about_left">
+<div id="about_mission">
+<h2 class="white">OUR</h2>
+<h2 class="blackI">MISSION</h2>
+<p class="ccontent_white">The student centers serve as the heart of UIC, where the quality and enjoyment of Community life are enhanced through learning experiences, opportunities for involvement, availability of resources and fun.</p>
+</div>
+<div id="about_links">
+<ul>
+<li class="about_inactive_links"><a href="service.shtml">LOCATIONS</a></li>
+<li class="about_inactive_links"><a href="directory.shtml">BUILDING DIRECTORY</a></li>
+<li class="about_inactive_links"><a href="lockers.shtml">LOCKER REGISTRATION</a></li>
+<li class="about_inactive_links"><a href="centervision.shtml">STUDENT CenterVISION</a></li>
+<li class="about_inactive_links"><a href="lost.shtml">LOST AND FOUND</a></li>
+<li id="about_inactive_link"><a href="donation.shtml">DONATION BINS</a></li>
+<li class="about_inactive_links"><a href="policies.shtml">POLICIES</a></li>
+<li class="about_active_links"><a href="reports.shtml">REPORTS</a></li>
+</ul>
+</div>
+</div>
+
+<div id="about_right">
+<div id="about_main">
+
+<h2 class="white">STUDENT CENTERS</h2>
+<h2 class="whiteI">REPORTS</h2>
+<hr class="gray">
+
+<p class="ccontent_white"><strong>Building Manager's Reports</strong></p>
+<p class="ccontent_white">
+<a href="http://www.uic.edu/depts/chcc/scebldg/scebldg.html" class="extlink">Student Center East</a><br><br>
+<a href="http://www.uic.edu/depts/chcc/scwbldg/scwbldg.html" class="extlink">Student Center West</a><br><br>
+<a href="http://www.uic.edu/depts/chcc/ssbbldg/ssbbldg.html" class="extlink">Student Service Building</a><br><br>
+</p>
+
+<p class="ccontent_white"><strong>Operation's Reports</strong></p>
+<p class="ccontent_white">
+<a href="http://www.uic.edu/depts/chcc/sceopp/sceopp.html" class="extlink">Student Center East</a><br><br>
+<a href="https://www.uic.edu/depts/chcc/scwopp/scwopp.html" class="extlink">Student Center West</a><br><br>
+</p>
+
+<p class="ccontent_white"><strong>Facility Repairs</a></strong></p>
+<p class="ccontent_white"><a href="http://www.emaint.com/" class="extlink">www.emaint.com</a></p>
+
+</div>
+</div>
+
+
+<div class="clear_div"></div>
+</div>
+
+</div>
+
+<div id="level7">
+<!--#include virtual="footer.html" -->

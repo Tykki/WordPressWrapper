@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<CATALOG>
+<!-- Main Building Floors-->
+	<FLOORNAME>
+		<KEYWORD>mainfloor1</KEYWORD>
+		<IMAGE>images/Floor-1-SCE.jpg</IMAGE>
+		<MAP>#Map1</MAP>
+		<INFO><![CDATA[<h2>Floor 1</h2>
+		ATM<br>
+		Bookstore<br>
+		Building Management Office and Service Center<br>
+		Cafe Descartes<br>
+		Cafeteria (East Cafe`)<br>
+		Chick-Fil-A (Coming Soon)<br>
+		East Dining Room<br>
+		Midwest Salon<br>
+		Panda Express (Coming Soon)<br>
+		Student Games and Bowling Center<br>
+		West Dining Room<br>
+		UIC Visitors Center<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>mainfloor2</KEYWORD>		
+		<IMAGE>images/Floor-2-SCE.jpg</IMAGE>	
+		<MAP>#Map2</MAP>
+		<INFO><![CDATA[<h2>Floor 2</h2>
+		Amazon@UIC<br>
+		Burrito Bravo<br>
+		Cashier<br>
+		Commuter Student Resource Center<br>
+		Credit Union 1<br>
+		Dunkin' Donuts<br>
+		Halsted Street Station<br>
+		Inner Circle<br>
+		Pier Room<br>
+		Sbarro<br>
+		Student Center East Administrative Offices<br>
+		Subway<br>
+		PNC Bank<br>
+		UIC Copying<br>
+		Wellness Center<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>mainfloor3</KEYWORD>		
+		<IMAGE>images/Floor-3-SCE.jpg</IMAGE>	
+		<MAP>#Map3</MAP>
+		<INFO><![CDATA[<h2>Floor 3</h2>
+		<div id="summary_left">
+		<h2>Floor 3 South</h2>
+		380M &nbsp; Alternative Spring Break<br>
+		380B &nbsp; Alpha Phi Alpha <br>
+		380M &nbsp; American Marketing Association <br>
+		UIC Radio
+		Student Leadership Development and Volunteer Services
+		Campus Programs<br>
+		</div> 
+		<div id="summary_right">
+		<h2>Floor 3 North</h2><h3> Conference Rooms</h3>
+		Cardinal <br>
+		Fort Dearborn <br>
+		Illinois <br>
+		Monarch <br>
+		Prairie <br>
+		White Oak <br>
+		<br>
+		</div>
+		]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>mainfloor4</KEYWORD>		
+		<IMAGE>images/Floor-4-SCE.jpg</IMAGE>	
+		<MAP>#Map4</MAP>
+		<INFO><![CDATA[<h2>Floor 4</h2>
+		Student Organization Offices<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>mainfloorB</KEYWORD>		
+		<IMAGE>images/Floor -B- SCE.jpg</IMAGE>	
+		<MAP>#MapB</MAP>
+		<INFO><![CDATA[<h2>Floor B</h2>
+		Bookstore<br> ]]></INFO>
+	</FLOORNAME>
+
+<!-- Tower Floors -->
+	<FLOORNAME>
+		<KEYWORD>towerfloor1</KEYWORD>		
+		<IMAGE>images/Tower-Floor-1-SCE.jpg</IMAGE>	
+		<MAP>#MapTower1</MAP>
+		<INFO><![CDATA[<h2>Tower Floor 1</h2>
+		Circle Lounge<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>towerfloor2</KEYWORD>		
+		<IMAGE>images/Tower-Floor-2-SCE.jpg</IMAGE>	
+		<MAP>#MapTower2</MAP>
+		<INFO><![CDATA[<h2>Tower Floor 2</h2>
+		A. Montgomery Ward Gallery<br>
+		A. Montgomery Ward Lounge<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>towerfloor3</KEYWORD>		
+		<IMAGE>images/Tower-Floor-3-SCE.jpg</IMAGE>	
+		<MAP>#MapTower3</MAP>
+		<INFO><![CDATA[<h2>Tower Floor 3</h2>
+		Meeting Room<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>towerfloor4</KEYWORD>		
+		<IMAGE>images/Tower-Floor-4-SCE.jpg</IMAGE>	
+		<MAP>#MapTower4</MAP>
+		<INFO><![CDATA[<h2>Tower Floor 4</h2>
+		ACCC Computer Lab <br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>towerfloor5</KEYWORD>		
+		<IMAGE>images/Tower-Floor-5-SCE.jpg</IMAGE>	
+		<MAP>#MapTower5</MAP>
+		<INFO><![CDATA[<h2>Tower Floor 5</h2>
+		University of Illinois Alumni Association<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>towerfloor6</KEYWORD>		
+		<IMAGE>images/Tower-Floor-6-SCE.jpg</IMAGE>	
+		<MAP>#MapTower6</MAP>
+		<INFO><![CDATA[<h2>Tower Floor 6</h2>
+		Meeting Rooms<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>towerfloor7</KEYWORD>		
+		<IMAGE>images/Tower-Floor-7-SCE.jpg</IMAGE>	
+		<MAP>#MapTower7</MAP>
+		<INFO><![CDATA[<h2>Tower Floor 7</h2>
+		Campus Auxillary Services Employment<br>
+		Campus Auxillary Services Financial Services<br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>towerfloor8</KEYWORD>		
+		<IMAGE>images/Tower-Floor-8-SCE.jpg</IMAGE>	
+		<MAP>#MapTower8</MAP>
+		<INFO><![CDATA[<h2>Tower Floor 8</h2>
+		Offices<br>]]></INFO>
+	</FLOORNAME>
+
+<!-- Main Building and Tower-->
+	<FLOORNAME>
+		<KEYWORD>mainbuilding</KEYWORD>		
+		<IMAGE>images/Full-Image-SCE.jpg</IMAGE>	
+		<MAP>#MapMainBuilding</MAP>
+		<INFO><![CDATA[<h2>Main Building</h2> <br>]]></INFO>
+	</FLOORNAME>
+	<FLOORNAME>
+		<KEYWORD>tower</KEYWORD>		
+		<IMAGE>images/Full-Image-SCE-Tower.jpg</IMAGE>	
+		<MAP>#MapTower</MAP>
+		<INFO><![CDATA[<h2>Tower</h2> <br>]]></INFO>
+	</FLOORNAME>
+</CATALOG>
