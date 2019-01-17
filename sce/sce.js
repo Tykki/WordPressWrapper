@@ -215,7 +215,7 @@ function loadXMLDoc(shortened)
 			
 			document.getElementById('floor').innerHTML = text;
 			
-			$("area.fancy").fancybox();
+			jQuery_1_5_2("area.fancy").fancybox();
         }
     }
 
@@ -301,7 +301,7 @@ function loadFloorXMLDoc(service)
 	
 	loadXMLDoc(shortened);
 	
-	$('.map').maphilight();
+	jQuery_1_5_2('.map').maphilight();
 
 	}
 }
